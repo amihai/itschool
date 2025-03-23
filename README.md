@@ -1,3 +1,3 @@
-# itschool
+# itschool is cool
 itschool
 Test
