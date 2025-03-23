@@ -1,3 +1,3 @@
-# itschool e o scoala de IT
+# itschool is cool
 itschool
 Test
